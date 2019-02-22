@@ -1,0 +1,416 @@
+
+
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'sendMention' is not defined
+[<module 'time' (built-in)>] Invalid mids
+[<module 'time' (built-in)>] Invalid mids
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] 'str' object has no attribute 'member'
+[<module 'time' (built-in)>] local variable 'manusia' referenced before assignment
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] 'str' object has no attribute 'members'
+[<module 'time' (built-in)>] object of type 'generator' has no len()
+[<module 'time' (built-in)>] '>' not supported between instances of 'int' and 'str'
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='too big contentMeta', parameterMap=None)
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8297538763784 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb52f23f0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] local variable 'target' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=0, reason='picture cannot be changed by user directly', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: '0hrcMk0pnBLUxwEgHwgHdSG0xXIyEHPCsECHVif1cSdXtdI2kTRCRqKFdHIylecG0SGXw3KwBHIClU'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: '0hnbqkoBieMU1MEhwH9hVOGnBXPyA7PDcFNHIuKm4TaX1kdXMYeHF_KmEbZypoJnYZeCd8KD0RaC1p'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'http://dl.profile.line-cdn.net/0hiZaXZuAnNnVcIRs_6WdJImBkOBgrDzA9JEUuEH8pOhElRnEgZ0AtQ3koO0R5Q3QjZUF9G38kPUYj'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'http://dl.profile.line-cdn.net/0hrcMk0pnBLUxwEgHwgHdSG0xXIyEHPCsECHVif1cSdXtdI2kTRCRqKFdHIylecG0SGXw3KwBHIClU'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'updateProfilePictureWithURL'
+[<module 'time' (built-in)>] TalkException(code=0, reason='picture cannot be changed by user directly', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='picture cannot be changed by user directly', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] sendMessageWithMention() takes 2 positional arguments but 3 were given
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] Remote end closed connection without response
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] Remote end closed connection without response
+[<module 'time' (built-in)>] Remote end closed connection without response
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c976441623e26fdc4758cd049654393ae', parameterMap={'2': 'c976441623e26fdc4758cd049654393ae'})
+[<module 'time' (built-in)>] local variable 'mid' referenced before assignment
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8304077095104 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb52915b0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8304077136117 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb523ee50>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] TalkException(code=0, reason='picture cannot be changed by user directly', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'mid' referenced before assignment
+[<module 'time' (built-in)>] local variable 'mid' referenced before assignment
+[<module 'time' (built-in)>] 'dict' object is not callable
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'activity'
+[<module 'time' (built-in)>] 'dict' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'dict' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] 'builtin_function_or_method' object has no attribute 'startswith'
+[<module 'time' (built-in)>] local variable 'msg_id' referenced before assignment
+[<module 'time' (built-in)>] name 'read' is not defined
+[<module 'time' (built-in)>] '>' not supported between instances of 'str' and 'int'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/tmp/1532449281.2820547-image.png'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/loli/5-image.png'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] type object 'datetime.datetime' has no attribute 'datetime'
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u92dec7a46b4afbf26b8e3ed60d22cc10', parameterMap=None)
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] ("Connection broken: TimeoutError(110, 'Connection timed out')", TimeoutError(110, 'Connection timed out'))
+[<module 'time' (built-in)>] [Errno 110] Connection timed out
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] 'text'
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8322440563255 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:833)'),))
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8322463638783 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:833)'),))
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8323356967176 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:833)'),))
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'c3aa5a3dd3b822d47528307b29e8fc4c2'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] 'text'
+[<module 'time' (built-in)>] local variable 'receiver' referenced before assignment
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='obs-sg.line-apps.com', port=443): Max retries exceeded with url: /talk/m/download.nhn?oid=8333939066076 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:833)'),))
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '⁄•⁄ω⁄•⁄ ⁄)⁄ 20'
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] [Errno 110] Connection timed out
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '等一下一起嗨 10'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '有巨乳 30'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/tmp/1532941771.3444989-image.bin'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/tmp/1532941773.684637-image.bin'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/tmp/1532941827.0497153-image.bin'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/tmp/1532942071.7816303-image.bin'
+[<module 'time' (built-in)>] 'text'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/tmp/8342034837668-token.txt'
+[<module 'time' (built-in)>] 'text'
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] 'text'
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/loli/2-image.png'
+[<module 'time' (built-in)>] 'text'
+[<module 'time' (built-in)>] sendPostToTalk() missing 1 required positional argument: 'postId'
+[<module 'time' (built-in)>] name 'data' is not defined
+[<module 'time' (built-in)>] name 'data' is not defined
+[<module 'time' (built-in)>] TalkException(code=71, reason='unsendMessage feature restricted', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=71, reason='unsendMessage feature restricted', parameterMap={})
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=71, reason='unsendMessage feature restricted', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] empty range for randrange() (0,0, 0)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] [Errno 2] No such file or directory: 'linepy/loli/8-image.png'
+[<module 'time' (built-in)>] TalkException(code=71, reason='unsendMessage feature restricted', parameterMap={})
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'getGroupIdByName'
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[<module 'time' (built-in)>] local variable 'gMembMids' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key is not registered', parameterMap={})

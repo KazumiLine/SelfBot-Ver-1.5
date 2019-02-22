@@ -1,0 +1,17 @@
+{
+    "admin": [],
+    "blacklist": {},
+    "bots": [],
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {}
+    },
+    "owners": [
+        "ua10c2ad470b4b6e972954e1140ad1891",
+        "u992a6e77041a772b8abd613ea64d4623",
+        "u389ba874a0560c8c0adf680d1d3b15e3"
+    ],
+    "s": {},
+    "user": {}
+}
